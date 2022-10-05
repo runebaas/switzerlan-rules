@@ -1,0 +1,52 @@
+title = "SwitzerLAN Rulebook Directory"
+baseURL = "https://rules.switzerlan.ch/"
+
+theme = "book"
+
+#enableGitInfo = true
+enableRobotsTXT = true
+
+disableKinds = [ "sitemap", "RSS", "taxonomy", "taxonomyTerm" ]
+DefaultContentLanguage = "en"
+
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 3
+ordered = false
+
+#[markup.goldmark.renderer]
+#unsafe = true
+
+[params]
+BookTheme = 'auto'
+BookToC = true
+
+# (Optional, default none) Set the path to a logo for the book. If the logo is
+# /static/logo.png then the path would be logo.png
+# BookLogo = 'logo.png'
+
+BookMenuBundle = '/menu'
+BookSection = 'rules'
+
+# Set source repository location.
+# Used for 'Last Modified' and 'Edit this page' links.
+#BookRepo = 'https://github.com/alex-shpak/hugo-book'
+
+# (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
+# commit hash for 'doc' page type.
+# Requires 'BookRepo' param.
+# Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
+# Github uses 'commit', Bitbucket uses 'commits'
+# BookCommitPath = 'commit'
+
+# Enable "Edit this page" links for 'doc' page type.
+# Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+# Edit path must point to root directory of repo.
+#BookEditPath = 'edit/main/exampleSite'
+
+BookDateFormat = '2 January, 2006'
+BookSearch = true
+BookComments = false
+BookPortableLinks = true
+BookServiceWorker = false
+BookTranslatedOnly = false

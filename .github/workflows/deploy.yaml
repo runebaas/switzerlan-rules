@@ -1,0 +1,29 @@
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build_docs:
+    name: Build documentation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build
+        shell: pwsh
+        run: |
+          ./tasks.ps1 sync-content
+          ./tasks.ps1 build
+
+      - name: Set CNAME
+        run: echo "rules.switzerlan.ch" > ./website/public/CNAME
+
+      - name: Deploy to GitHub Pages
+        if: ${{ github.ref == 'refs/heads/master' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./website/public
