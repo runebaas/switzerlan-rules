@@ -32,7 +32,7 @@ The tournament is played in the following stages:
 
 Side selection will be determined by the listing of the match, first named team will have side selection.
 
-#### Finals - Best of 3 Single Elminiation
+##### Finals - Best of 3 Single Elminiation
 
 Side selection will be awarded to the higher seed for Game 1. For all games after the first, the losing Team of the previous game will have side selection.
 
