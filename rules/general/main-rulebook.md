@@ -25,7 +25,7 @@ Each player must fulfill the following criteria:
 
 * Have a valid LAN ticket.
 * Be on-site at the LAN during the tournament.
-* At-least 14 years of age, this requirement may be increased for individual tournaments.
+* Must be either 14 years of age or be the minimum age of the PEGI rating for the game played in the tournament, whichever is higher.
 * Must be able to reasonably communicate in at-least one of the following languages: English, German, French.
 
 ## Communication
