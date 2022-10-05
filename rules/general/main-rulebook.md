@@ -137,22 +137,22 @@ In case of disagreement with a decision, the team representative may appeal to t
 
 ### Penalties
 
-| Violation                                   | Sanction                        |
-|---------------------------------------------|---------------------------------|
-| Insults                                     | Warning                         |
-| Deception                                   | Warning                         |
-| Excessive protesting                        | Warning                         |
-| Unnecessary pausing                         | Warning                         |
-| Be late or unresponsive                     | Warning                         |
-| Use of unregistered accounts                | Warning                         |
-| Use of players not registered in the team   | Disqualification                |
-| Discrimination                              | Disqualification                |
-| Fake results                                | Disqualification                |
-| Cheating                                    | Disqualification                |
-| Doping / use of performance enhancing drugs | Disqualification                |
-| Damage of property or theft                 | Disqualification + Police + Ban |
-| Physical violence                           | Disqualification + Police + Ban |
-| Other illegal activities (under swiss law)  | Disqualification + Police + Ban |
+| Violation                                   | Sanction         |
+|---------------------------------------------|------------------|
+| Insults                                     | Warning          |
+| Deception                                   | Warning          |
+| Excessive protesting                        | Warning          |
+| Unnecessary pausing                         | Warning          |
+| Be late or unresponsive                     | Warning          |
+| Use of unregistered accounts                | Warning          |
+| Use of players not registered in the team   | Disqualification |
+| Discrimination                              | Disqualification |
+| Fake results                                | Disqualification |
+| Cheating                                    | Disqualification |
+| Doping / use of performance enhancing drugs | Disqualification |
+| Damage of property or theft                 | Ban + Police     |
+| Physical violence                           | Ban + Police     |
+| Other illegal activities (under swiss law)  | Ban + Police     |
 
 This table is not exhaustive.
 
@@ -170,7 +170,9 @@ If this happens during a round, the opposing team will get a defwin.
 
 ### Bans
 
-Everyone in the team will not be allowed to participate in any SwitzerLAN tournaments for 3 years.
+All players of the offending team will not be allowed to participate in any SwitzerLAN tournaments for 3 years.
+
+This also includes an immediate disqualification.
 
 ## Game rules
 
