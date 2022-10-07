@@ -21,14 +21,24 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| State   | Description                                                                                                                             |
-|---------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Stage 1 | Swiss Rounds in the Best-of-1 format. The top 8 teams qualify for the second stage. The Swiss rounds will not be seeded.                |
-| Stage 2 | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example. 1st vs 8th) |
+| State      | Description                                                                                                                             |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Qualifiers | 4 groups with Swiss Rounds in the Best-of-1 format. The top 4 teams qualify for the second stage. The Swiss rounds will not be seeded.  |
+| Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example. 1st vs 4th) |
+
+#### Side Selection
+
+##### Qualifiers - Swiss Rounds
+
+Side selection will be determined by the listing of the match, first named team will have side selection.
+
+##### Finals - Best of 3 Single Elminiation
+
+Side selection will be awarded to the higher seed for Game 1. For all games after the first, the losing Team of the previous game will have side selection.
 
 #### Tie breaker
 
-The Tiebreaker is automatically calculated by Battlefy.
+The Tiebreakers of the Swiss Rounds will be automatically calculated by Battlefy and won't get played out.
 
 ## Schedule
 
@@ -45,4 +55,4 @@ EUW
 
 Mode: 5v5
 
-DLC/Version: Latest patch
+Version: Latest patch
