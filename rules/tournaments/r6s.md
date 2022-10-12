@@ -128,8 +128,7 @@ General: The 1st named team (upper one in the Bracket) begins with pick and ban.
 | Objective Type Rotation      | Rounds Played |
 | Attacker unique spawn        | On            |
 | Pick Phase Timer             | 15            |
-| 6TH Pick Phase               | On            |
-| 6TH Pick Phase Timer         | 15            |
+| 6TH Pick Phase               | Off           |
 | Reveal Phase Timer           | 5             |
 | Damage handicap              | 100           |
 | Friendly fire damage         | 100           |
@@ -154,7 +153,7 @@ If this happens again, the opposing team can receive a round loss.
 In case a new map gets picked, that is not allowed yet, the game must be remade.
 Rulings regarding new maps and operators will be communicated by the tournament officials via discord.
 
-### Currently banned operators
+### Banned operators
 
 * Grim
 
@@ -162,3 +161,50 @@ Rulings regarding new maps and operators will be communicated by the tournament 
 
 Only the following Operator cosmetics are allowed: Default Skins, Pro League Gold Skins, Pilot Program skins, November Major & Regional League Cosmetics.
 There are no restrictions for weapon skins and charms. If a team is seen using cosmetics that are not allowed, their opponents should notify the admins immediately.
+
+### Result Screenshots
+
+Each teams must take a screenshot after each played map.
+
+### Monitor System Status (MOSS)
+
+Each player must use Monitor System Status (MOSS) during all matches.
+
+#### Usage instructions
+
+* Download MOSS from https://nohope.eu/
+* Open the executable as administrator. You may have to turn off your antivirus program.
+* As the program opens, hit "File" followed by "Parameters", choose "Rainbow Six", and press "OK".
+* Following press "Capture" and then "Start". Now you can start Rainbow Six: Siege.
+* After your match, close Rainbow Six: Siege. In MOSS, under the tab "Capture", hit the "Stop" button. The MOSS files are saved in a folder called "MOSS" on your desktop by default.
+
+Should MOSS cause any Software or Hardware damage, SwitzerLAN will not be liable for any damage done.
+
+#### Crash of MOSS
+
+Should MOSS crash for any reason, the match must be paused.
+The affected player must restart MOSS immediately.
+
+A screenshot of the crash should be provided to the tournament officials.
+
+### Data retention
+
+All match related files, such as result screenshots, must be kept at least 14 days after completion of the match.\
+
+Not being able to provide such files may result in a defloss.
+
+### Suspicion of cheating
+
+If you suspect your opponents of cheating, you need to hand in a report within 2 hours after the match has been finished.
+
+Reports must be prepared based on videos in full HD quality.
+A report should be handed in along with the opening of a protest.
+Reports which are not in the specified format will be declined.
+
+The report should contain following information:
+
+* Name and account link of the suspected player(s)
+* In game nickname of the suspected player(s)
+* Description of the suspected cheat
+* Link and name of the video
+* Specific timestamps of the video which look suspicious, along with a reason for the suspicion
