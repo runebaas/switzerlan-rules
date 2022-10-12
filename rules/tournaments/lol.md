@@ -12,7 +12,7 @@ The rules may be available in several languages. If the individual versions diff
 
 #### Tournament Platform
 
-The official tournament platform for this tournament is battlefy.
+The official tournament platform for this tournament is Battlefy.
 Please make sure that each member of your team has an account.
 
 The official tournament page will be shared via the main communication channel established in the main rulebook.
