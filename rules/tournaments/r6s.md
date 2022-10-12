@@ -4,7 +4,7 @@
 
 These rules inherit all rules from the main rulebook.
 
-These rules apply to all participants of the Overwatch 2 tournament (hereinafter “OW” or “Game”).
+These rules apply to all participants of the "Rainbow 6: Siege" tournament (hereinafter "R6S" or "Game").
 
 The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
 
