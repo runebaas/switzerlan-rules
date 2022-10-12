@@ -159,8 +159,16 @@ Rulings regarding new maps and operators will be communicated by the tournament 
 
 ### Cosmetics
 
-Only the following Operator cosmetics are allowed: Default Skins, Pro League Gold Skins, Pilot Program skins, November Major & Regional League Cosmetics.
-There are no restrictions for weapon skins and charms. If a team is seen using cosmetics that are not allowed, their opponents should notify the admins immediately.
+Only the following Operator cosmetics are allowed:
+
+* Default Skins
+* Pro League Gold Skins
+* Pilot Program skins
+* November Major
+* Regional League
+
+There are no restrictions for weapon skins and charms.
+If a team is seen using cosmetics that are not allowed, their opponents should notify the tournament officials immediately.
 
 ### Result Screenshots
 
