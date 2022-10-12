@@ -22,7 +22,7 @@ The tournament starts with a qualifier system. The participants will play in sel
 
 All stages are FM. DT is exempt. All mods will be normalised in score.
 
-Warmups are NOT allowed during qualifiers as they hamper the points distribution. NF is enforced at all times.
+Warmups are NOT allowed during qualifiers as they hamper the point distribution. NF is enforced at all times.
 
 Per qualifier stage 2 cycles of each pool are granted. Each stage will have a submitting period ranging from 45 minutes to 70 and will be called out by an administrator.
 
@@ -36,9 +36,9 @@ In case of a point tie (very unlikely), the Point Break map will be played to de
 
 The tournament continues in a double elimination format. Participants who lose a match continue playing in the losers bracket. Participants who lose a match in the losers bracket will be completely eliminated from the tournament.
 
-After both brackets have concluded, the winners of the two brackets compete in the grand finals. If the winner of the losers bracket wins, an additional match will be played. However if the player from the winner's bracket wins, he wins the tournament.
+After both brackets have concluded, the winners of the two brackets compete in the grand finals. If the winner of the losers bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, he wins the tournament.
 
-Mappool size for each round are as follows:
+Map pool size for each round are as follows:
 
 | Round        | Size    |
 |--------------|---------|
@@ -81,7 +81,7 @@ The points are calculated as follows:
 \\[2em]
 Acc^8 = Acc Points
 \\[2em]
-(\frac{obects - miscounts}{objects})^{60} = Miscount Points
+(\frac{objects - miscounts}{objects})^{60} = Miscount Points
 {{< /katex >}}
 
 ### Match procedures
@@ -108,11 +108,11 @@ There will be **no bans** available for the players during qualifiers.
 
 During Ro16/8, L1-2 and Ro4/2, L3-6, players will be granted 1 ban each.
 
-During Grandfinals, players will be granted 2 bans each.
+During grand finals, players will be granted 2 bans each.
 
 #### Map Rules
 
-Once started, the map must be played until the end. The point distribution of a map is determined by the scores submitted to the /mp/ link. A player’s score is counted as long as he does not quit during the map. If a map is played on the wrong settings e.g wrong mod or score system, it will be replayed.
+Once started, the map must be played until the end. The point distribution of a map is determined by the scores submitted to the /mp/ link. A player’s score is counted as long as he does not quit during the map. If a map is played on the wrong settings e.g. wrong mod or score system, it will be replayed.
 
 #### Lobby behaviour
 
