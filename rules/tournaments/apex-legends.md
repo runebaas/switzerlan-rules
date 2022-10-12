@@ -54,3 +54,7 @@ Players will be provided with a tournament code.
 | 6-7      | 3      |
 | 8-10     | 2      |
 | 11-15    | 1      |
+
+### Skins
+
+Skins are allowed.
