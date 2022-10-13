@@ -201,6 +201,13 @@ Switzerland holds the right to stream, broadcast, or record any match played in 
 
 An appropriate delay for the streamed game will be used.
 
+## Username and Team names
+
+Any offensive, racist, discriminatory, indecent, or otherwise disturbing team- or usernames will not be tolerated.
+
+Participants will be asked once to change their names.
+Failure to comply will result in disqualification.
+
 ## Glossary
 
 | Word                | Definition                                                                                                                                                                          |
