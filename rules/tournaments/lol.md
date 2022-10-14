@@ -56,3 +56,7 @@ EUW
 Mode: 5v5
 
 Version: Latest patch
+
+### Skins
+
+Skins are allowed
