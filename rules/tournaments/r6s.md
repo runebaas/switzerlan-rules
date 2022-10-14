@@ -148,7 +148,7 @@ Doing so will result in round loss for the defending team.
 New operators and maps will generally be locked in the ongoing season.
 
 If a player selects an operator that is not allowed for play yet, the game will be re-hosted for one time.
-If this happens again, the opposing team can receive a round loss.
+If this happens again, the offending team can receive a defloss.
 
 In case a new map gets picked, that is not allowed yet, the game must be remade.
 Rulings regarding new maps and operators will be communicated by the tournament officials via discord.
