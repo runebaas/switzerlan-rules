@@ -59,21 +59,25 @@ All players must be at the location at the start of the tournament.
 
 ### Map Selection Process
 
-The first named team (upper one in the bracket) is Team A in the below examples.
-
 #### Bo1
 
-Team A and Team B start banning maps until there is one map left.
+To choose on which map the match will be played, the ban will be done as follows:
 
-Team A bans the first the map and B can choose the starting side.
+* The top team in the tree is considered team A. The other team is by definition team B.
+* Team A starts ban followed by Team B until there is only one map left. This map will be played.
+* A cut round will be played to define the side of the teams.
 
 #### Bo3
 
-Team A picks map 1, Team B chooses map 2.
+To choose on which map the match will be played, the ban will be done as follows:
 
-Both teams can choose the starting side of their opponent’s map-pick.
+* The top team in the tree is considered team A. The other team is by definition team B.
+* Team A starts banned followed byTeam B.
+* Team A chooses one of the six remaining maps, this will be the first map played during the showdown. Team B chooses the side of the first game.
+* Team B chooses one of the five remaining maps, this will be the second map played during the showdown. Team A chooses the side of the second game.
+* Team A starts ban followed by Team B.
+* The remaining map will be played for the tiebreaker. A cut round will be played to define the side of the teams.
 
-The Team who decides the last map will be decided by a coin flip.
 
 ## Corona
 
