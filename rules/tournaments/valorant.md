@@ -51,7 +51,6 @@ All players must be at the location at the start of the tournament.
 
 * Bind
 * Haven
-* Split
 * Ascent
 * Icebox
 * Breeze
