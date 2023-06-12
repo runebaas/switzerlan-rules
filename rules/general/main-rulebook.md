@@ -137,22 +137,22 @@ In case of disagreement with a decision, the team representative may appeal to t
 
 ### Penalties
 
-| Violation                                   | Sanction         |
-|---------------------------------------------|------------------|
-| Insults                                     | Warning          |
-| Deception                                   | Warning          |
-| Excessive protesting                        | Warning          |
-| Unnecessary pausing                         | Warning          |
-| Be late or unresponsive                     | Warning          |
-| Use of unregistered accounts                | Warning          |
-| Use of players not registered in the team   | Disqualification |
-| Discrimination                              | Disqualification |
-| Fake results                                | Disqualification |
-| Cheating                                    | Disqualification |
-| Doping / use of performance enhancing drugs | Disqualification |
-| Damage of property or theft                 | Ban + Police     |
-| Physical violence                           | Ban + Police     |
-| Other illegal activities (under swiss law)  | Ban + Police     |
+| Violation                                   | Sanction           |
+|---------------------------------------------|--------------------|
+| Insults                                     | Warning            |
+| Deception                                   | Warning            |
+| Excessive protesting                        | Warning            |
+| Unnecessary pausing                         | Warning            |
+| Be late or unresponsive                     | Warning            |
+| Use of unregistered accounts                | Warning            |
+| Use of players not registered in the team   | Disqualification   |
+| Discrimination                              | Disqualification   |
+| Fake results                                | Disqualification   |
+| Cheating                                    | Disqualification   |
+| Doping / use of performance enhancing drugs | Disqualification   |
+| Damage of property or theft                 | Ban + Legal Action |
+| Physical violence                           | Ban + Legal Action |
+| Other illegal activities (under swiss law)  | Ban + Legal Action |
 
 This table is not exhaustive.
 
