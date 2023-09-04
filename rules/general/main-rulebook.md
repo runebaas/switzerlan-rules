@@ -208,6 +208,12 @@ Any offensive, racist, discriminatory, indecent, or otherwise disturbing team- o
 Participants will be asked once to change their names.
 Failure to comply will result in disqualification.
 
+## Cross Play
+
+Any tournament games with official PC versions will be played on PC.
+However, if a game offers cross-play between PC and other platforms, participants may choose their preferred platform.
+This is subject to the condition that their choice neither interrupts the tournament proceedings nor necessitates additional arrangements or setup.
+
 ## Glossary
 
 | Word                | Definition                                                                                                                                                                          |
