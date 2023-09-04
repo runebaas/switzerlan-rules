@@ -1,10 +1,10 @@
-# Counter Strike: Global Offensive
+# Counter Strike 2
 
 ## General Provisions
 
 These rules inherit all rules from the main rulebook.
 
-These rules apply to all participants of the "Counter Strike: Global Offensive" tournament (hereinafter "CS:GO" or "Game").
+These rules apply to all participants of the "Counter Strike 2" tournament (hereinafter "CS2" or "Game").
 
 The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
 
