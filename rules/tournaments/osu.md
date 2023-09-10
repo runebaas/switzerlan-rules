@@ -1,5 +1,3 @@
-
-
 # osu!
 
 ## General Provisions
@@ -44,7 +42,9 @@ Map pool size for each round are as follows:
 This tournament iteration will have a different mappool format than usual. Instead of having a strict amount of maps per mod and per stage we opted to focus on skillsets first and on forced mods secondary. This means that a map such as nomod 5, which historically has been associated with nomod speed, may also be a doubletime map.
 
 We have also opted to replace all the nomod maps by freemod maps. Players may choose any or multiple of the following mods: nomod, hidden, hardrock unless otherwise specified. HR is generally disallowed in reading picks, which will be noted on the mappool sheet. 
+
 Players are **not** forced to pick a mod in the FM mappool. The bonus scores provided by the mods in the FM category will be awarded.
+
 In the forced mod pools such as HD, HR, DT, DTHR players are **not** allowed to pick additional mods.
 
 ### Tiebreaker
