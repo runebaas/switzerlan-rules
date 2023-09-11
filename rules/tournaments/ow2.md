@@ -45,14 +45,7 @@ The 1. named team (upper one in the Bracket) is responsible for creating the mat
 
 ### Map Pool
 
-Games will be played on all currently available maps.
-
-| Mode    | Maps                                                                               |
-|---------|------------------------------------------------------------------------------------|
-| Control | Nepal, Lijiang Tower, Ilios, Oasis, Busan                                          |
-| Push    | Colosseo, Esperança, New Queen Street                                              |
-| Hybrid  | Blizzard World, Eichenwalde, Hollywood, King's Row, Midtown, Paraíso               |
-| Escort  | Dorado, Havana, Junkertown, Circuit Royal, Rialto, Route 66, Watchpoint: Gibraltar |
+All maps that are available in competitive mode may be picked.
 
 ### Map Order
 
