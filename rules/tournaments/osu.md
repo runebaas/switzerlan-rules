@@ -45,7 +45,7 @@ We have also opted to replace all the nomod maps by freemod maps. Players may ch
 
 Players are **not** forced to pick a mod in the FM mappool. The bonus scores provided by the mods in the FM category will be awarded.
 
-In the forced mod pools such as HD, HR, DT, DTHR players are **not** allowed to pick additional mods.
+In the forced mod pools such as EZ, HD, HR, DT, DTHR players are **not** allowed to pick additional mods.
 
 ### Tiebreaker
 In the event of a Tiebreaker both teams ban one of the remaining 3 maps of the mappool and dm their ban to the ref. In self reffed stages players must notifcy a tournament admin (Paddington or Relos). The remaining map will act as Tiebreaker. If both teams ban the same map the Tiebreaker will be decided by roll of the remaining 2 maps
