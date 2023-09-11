@@ -17,6 +17,8 @@ $contentFolder = "$websiteFolder/content"
 
 $nl = [System.Environment]::NewLine
 
+$finalPages = ('Main Rulebook','osu!','Rocket League')
+
 ####
 # Shared Functions
 ####
@@ -30,6 +32,17 @@ function CreateContentSkelleton() {
 }
 
 function GeneratePage([string]$pageTitle, [string]$pageContent) {
+    if ($finalPages -contains $pageTitle) {
+        return @"
++++
+title = "$pageTitle"
+type = "docs"
++++
+
+$pageContent
+"@
+    }
+
     return @"
 +++
 title = "$pageTitle"
@@ -37,10 +50,10 @@ type = "docs"
 +++
 
 {{< hint warning >}}
-**Provisional Rules**  
+**Provisional Rules**
 The rules have not been updated for 2023. The rules are provisional and may be used as reference, but are subject to change at any time while this banner is shown.
 
-Final ruleset will be published 11 September 2023.
+Final ruleset will be published between 11 and 14 September 2023.
 {{< /hint >}}
 
 $pageContent
