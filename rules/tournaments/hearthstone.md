@@ -1,4 +1,4 @@
-# HearthStone
+# Hearthstone
 
 ## General Provisions
 
