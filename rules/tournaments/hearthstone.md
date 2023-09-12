@@ -51,10 +51,6 @@ If a player mistakenly picks the wrong deck and the opponent plays the game none
 The deck lists will be submitted on Battlefy.
 If a player is using a card which is not listed on his Battlefy’s list, his opponent may request the round win (so it would be 1-0 in the Bo5 for example).
 
-### Banned Cards
-
-* Dew Process
-
 ### Scripts / 3rd Party Software
 
 It is not allowed to use any 3rd party software such as deck trackers or any other systems which are not directly provided by the game.
