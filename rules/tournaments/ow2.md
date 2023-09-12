@@ -51,13 +51,13 @@ All maps that are available in competitive mode may be picked.
 
 The maps will be played in the following order during the whole tournament.
 
-| Round | Mode                                          |
-|-------|-----------------------------------------------|
-| 1     | Control                                       |
-| 2     | Push                                          |
-| 3     | Hybrid                                        |
-| 4     | Escort                                        |
-| 5     | Control (excluding the map chosen as 1st map) |
+| Round | Mode                                       |
+|-------|--------------------------------------------|
+| 1     | Control                                    |
+| 2     | Hybrid                                     |
+| 3     | Flashpoint                                 |
+| 4     | Escort                                     |
+| 5     | Push (excluding the map chosen as 1st map) |
 
 ### Map Choice
 
