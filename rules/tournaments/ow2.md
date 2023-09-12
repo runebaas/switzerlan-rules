@@ -76,7 +76,7 @@ Here are the starting maps for the different rounds:
 |-------------|---------------|
 | 1           | Nepal         |
 | 2           | Lijiang Tower |
-| 3           | Ilios         |
+| 3           | New Junk City |
 | 4           | Oasis         |
 | 5           | Busan         |
 | 6           | Nepal         |
