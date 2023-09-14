@@ -77,11 +77,3 @@ To choose on which map the match will be played, the ban will be done as follows
 * Team B chooses one of the five remaining maps, this will be the second map played during the showdown. Team A chooses the side of the second game.
 * Team A starts ban followed by Team B.
 * The remaining map will be played for the tiebreaker. A cut round will be played to define the side of the teams.
-
-
-## Corona
-
-If a player tests positive with COVID-19 and provides sufficient proof to the tournament officials, they may play in the tournament from home.
-
-This will be handled on a case by case basis.
-Any attempt at abusing this rule leads to an immediate disqualification for the entire team.
