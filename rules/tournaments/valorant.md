@@ -49,13 +49,13 @@ All players must be at the location at the start of the tournament.
 
 ### Map pool
 
-* Bind
-* Haven
 * Ascent
-* Icebox
+* Bind
 * Breeze
-* Fracture
-* Pearl
+* Haven
+* Lotus
+* Split
+* Sunset
 
 ### Map Selection Process
 
