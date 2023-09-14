@@ -12,10 +12,9 @@ The rules may be available in several languages. If the individual versions diff
 
 ### Tournament Platform
 
-The official tournament platform for this tournament is Battlefy.
-Please make sure that each member of your team has an account.
+Discord will be used as the tournament platform.
 
-The official tournament page will be shared via the main communication channel established in the main rulebook.
+More info will be shared via the main communication channel established in the main rulebook.
 
 ### Tournament Format
 
