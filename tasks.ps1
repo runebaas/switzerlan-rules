@@ -52,8 +52,6 @@ type = "docs"
 {{< hint warning >}}
 **Provisional Rules**
 The rules have not been updated for 2023. The rules are provisional and may be used as reference, but are subject to change at any time while this banner is shown.
-
-Final ruleset will be published between 11 and 14 September 2023.
 {{< /hint >}}
 
 $pageContent
