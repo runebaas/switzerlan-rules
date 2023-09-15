@@ -27,7 +27,7 @@ The second and third place in the tournament are based on the top 2 teams with t
 
 ### Schedule
 
-First appointment for the team representative will be the briefing on Saturday at 19:00.
+The first appointment for the team representative will be the briefing on Saturday at 19:00.
 The tournament itself will start one hour later at 20:00.
 All players must be at the location at the start of the tournament.
 

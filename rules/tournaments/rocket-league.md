@@ -29,7 +29,8 @@ The amount of swiss rounds played during the qualifiers will adapt based on the 
 
 ### Schedule
 
-First appointment for the team representative will be the briefing on Friday at 20:00. The Tournament itself will start one hour later at 21:00.
+The first appointment for the team representative will be the briefing on Friday at 20:00.
+The Tournament itself will start one hour later at 21:00.
 All players must be at the location at the time of the briefing.
 
 ### Game Settings

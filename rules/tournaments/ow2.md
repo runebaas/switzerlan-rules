@@ -28,7 +28,7 @@ The tournament is played in the following stages:
 
 ## Schedule
 
-First appointment for the team representative will be the briefing on Friday at 21:30.
+The first appointment for the team representative will be the briefing on Friday at 21:30.
 The tournament itself will start one hour later at 22:30.
 All players must be at the location at the start of the tournament.
 
