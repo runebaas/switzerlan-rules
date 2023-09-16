@@ -8,14 +8,6 @@ These rules apply to all participants of the Valorant tournament.
 
 The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
 
-## Project V
-
-This tournament is part of Project V, the Valorant Regional Circuit for the DACH region.
-More info is available on their website: https://projectv.gg/
-
-Any rules not covered here are inherited from the Project V rulebook.
-They can be found here: https://projectv.gg/rules (german only)
-
 ## Tournament Information
 
 ### Tournament Platform
