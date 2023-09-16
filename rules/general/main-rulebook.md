@@ -197,7 +197,7 @@ All participants may stream, broadcast, or record their matches under the follow
 
 ### Streams organized by SwitzerLAN
 
-Switzerland holds the right to stream, broadcast, or record any match played in any SwitzerLAN tournament.
+SwitzerLAN holds the right to stream, broadcast, or record any match played in any SwitzerLAN tournament.
 
 An appropriate delay for the streamed game will be used.
 
