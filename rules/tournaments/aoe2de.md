@@ -21,12 +21,10 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| Stage   | Type               | Format    | Description                                                                                                       |
-|---------|--------------------|-----------|-------------------------------------------------------------------------------------------------------------------|
-| Stage 1 | Swiss Rounds       | Bo1       | The top 4 players qualify for the next stage. This stage will be seeded according to current 1v1 RM ELO rankings. |
-| Stage 2 | Single Elimination | Bo1 / Bo3 | The bracket will be seeded according to the result of the first stage.                                            |
-
-The amount of swiss rounds played during the first stage will adapt based on the total amount of players participating.
+| Stage   | Type               | Format    | Description                                                            |
+|---------|--------------------|-----------|------------------------------------------------------------------------|
+| Stage 1 | Swiss Rounds       | Bo1       | This stage will be seeded according to current 1v1 RM ELO rankings.    |
+| Stage 2 | Single Elimination | Bo1 / Bo3 | The bracket will be seeded according to the result of the first stage. |
 
 ### Qualification Swiss System
 
@@ -86,7 +84,7 @@ Each player plays with his own game account.
 #### Swiss Rounds
 
 In the first round, the lower ranked (by 1v1 RM ELO) player has the choice of which map is played.
-For the next rounds the player with the lower current ranking in the Swiss round standings chooses the map.
+For the next rounds the player with the lower current ranking in the Swiss Stage standings chooses the map.
 
 #### Single Elimination
 
