@@ -34,8 +34,8 @@ victory. If there is a tie for 8th place after the 4 rounds, the ranking will be
 
 ## Schedule
 
-The first appointment for the team representative will be the briefing on Saturday at 15:00.
-The tournament itself will start one hour later at 16:00.
+The first appointment for the team representative will be the briefing on Saturday at 15:30.
+The tournament itself will start one hour later at 16:30.
 All players must be at the location at the start of the tournament.
 
 No accommodations will be made for other tournaments that may happen during the time of this tournament.
