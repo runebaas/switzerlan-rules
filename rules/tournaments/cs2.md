@@ -38,10 +38,6 @@ No accommodations will be made for other tournaments that may happen during the 
 
 ## Game Settings
 
-### Server
-
-SwitzerLAN, the IPs will be provided via the main communication channels.
-
 ### Map pool
 
 * Inferno
@@ -81,3 +77,25 @@ All scripts and 3rd party software are banned except the following:
 * Weapon buy scripts
 
 If you are unsure whether you are allowed to use a script, please check with the tournament officials.
+
+## Server
+
+### IPs
+
+SwitzerLAN, the IPs will be provided via the main communication channels.
+
+### Server Settings
+
+| Name                 | Value      | Server                         |
+|----------------------|------------|--------------------------------|
+| Rounds               | Best of 24 | `mp_maxrounds 24`              |
+| Round time           | 1m 55s     | `mp_roundtime 1.2`             |
+| Start money          | $800       | `mp_startmoney 800`            |
+| Freeze Time          | 20s        | `mp_freezetime 20`             |
+| Buy time             | 20s        | `mp_buytime 20`                |
+| Bomb timer           | 40s        | `mp_c4timer 40`                |
+| Overtime rounds      | Best of 6  | `mp_overtime_maxrouns 6`       |
+| Overtime start money | $10000     | `mp_overtime_startmoney 10000` |
+| Round restart delay  | 5s         | `mp_round_restart_delay 5`     |
+| Halftime duration    | 30s        |                                |
+| Prohibited items     | none       |                                |
