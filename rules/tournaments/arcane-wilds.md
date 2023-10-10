@@ -60,17 +60,15 @@ Each player plays with their own game account.
 
 #### Swiss Rounds
 
-First round: Hillclimb Island
-Second round: Tempered Woods
-Third round: Glistening Prairie
-Fourth round: Hillclimb Island
-...
+* First round: Hillclimb Island
+* Second round: Tempered Woods
+* Third round: Glistening Prairie
+* Fourth round: Hillclimb Island
 
 #### Single Elimination
 
-In a best-of-1 match, the lower seeded player chooses the map.
-In a best-of-3 match, the first game is always played on Hillclimb Island.
-Afterward the loser of the previously played game chooses the map.
+The first game is always played on Hillclimb Island.
+The Following maps are selected by the player who lost the previous game.
 
 ## Playing Situations
 
