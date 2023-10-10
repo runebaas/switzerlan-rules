@@ -94,7 +94,7 @@ SwitzerLAN, the IPs will be provided via the main communication channels.
 | Freeze Time          | 20s        | `mp_freezetime 20`             |
 | Buy time             | 20s        | `mp_buytime 20`                |
 | Bomb timer           | 40s        | `mp_c4timer 40`                |
-| Overtime rounds      | Best of 6  | `mp_overtime_maxrouns 6`       |
+| Overtime rounds      | Best of 6  | `mp_overtime_maxrounds 6`      |
 | Overtime start money | $10000     | `mp_overtime_startmoney 10000` |
 | Round restart delay  | 5s         | `mp_round_restart_delay 5`     |
 | Halftime duration    | 30s        |                                |
