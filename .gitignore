@@ -2,6 +2,3 @@ website/public/
 website/resources/
 website/content/
 website/.hugo_build.lock
-
-# Jetbrains IntelliJ
-/.idea/

@@ -6,7 +6,8 @@ These rules inherit all rules from the main rulebook.
 
 These rules apply to all participants of the "Age of Empires 2" tournament (hereinafter "AoE2" or "Game").
 
-The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
+The rules may be available in several languages.
+If the individual versions differ, the English version is considered the source of the truth.
 
 ## Tournament Information
 
@@ -21,24 +22,27 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| Stage   | Type               | Format    | Description                                                            |
-|---------|--------------------|-----------|------------------------------------------------------------------------|
-| Stage 1 | Swiss Rounds       | Bo1       | This stage will be seeded according to current 1v1 RM ELO rankings.    |
-| Stage 2 | Single Elimination | Bo1 / Bo3 | The bracket will be seeded according to the result of the first stage. |
+| Stage   | Type               | Format    | Description                                                                       |
+|---------|--------------------|-----------|-----------------------------------------------------------------------------------|
+| Stage 1 | Swiss Rounds       | Bo1       | This stage is used to determine the 8 players who will advance to the next stage. |
+| Stage 2 | Single Elimination | Bo1 / Bo3 | The bracket will be seeded according to the results of the first stage.           |
 
 ### Qualification Swiss System
 
-4 rounds are played according to the Swiss-System. The games will be reallocated after each round according to the
-current ranking. For the ranking the won and lost games count. The best eight players will then play for the tournament
-victory. If there is a tie for 8th place after the 4 rounds, the ranking will be calculated automatically.
+In the Swiss-System tournament, there will be a total of four rounds played.
+After each round, game pairings will be adjusted based on the current player rankings.
+These rankings are determined by considering the number of games won and lost by each player.
+Once the four rounds are completed, the top eight players in the rankings will advance to compete for the tournament
+victory. In the event of a tie for the eighth place after the four rounds, the ranking will be automatically calculated
+to determine the final eight participants.
+
+More information about the Swiss System can be found [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
 
 ## Schedule
 
 The first appointment for the team representative will be the briefing on Saturday at 15:30.
 The tournament itself will start one hour later at 16:30.
 All players must be at the location at the start of the tournament.
-
-No accommodations will be made for other tournaments that may happen during the time of this tournament.
 
 ## Settings
 
@@ -64,11 +68,11 @@ The following settings must be set and checked before each game.
 
 ### Mods
 
-All mods are allowed.
+Only those mods that do not unfairly affect the game are allowed.
 
 ## Game Account
 
-Each player plays with his own game account.
+Each player plays with their own game account.
 
 ## Map Pool
 
@@ -83,8 +87,7 @@ Each player plays with his own game account.
 
 #### Swiss Rounds
 
-In the first round, the lower ranked (by 1v1 RM ELO) player has the choice of which map is played.
-For the next rounds the player with the lower current ranking in the Swiss Stage standings chooses the map.
+The last named player can pick the map.
 
 #### Single Elimination
 
@@ -94,35 +97,18 @@ Afterward the loser of the previously played game chooses the map.
 
 ## Civilization Draft
 
-Players may pick any civilization, but may not repeat any civilization in a match. This means that if, for example,
-a match lasts for three games, players will have played three different civilizations each (also known as "hidden pick,
-no repeat").
-
-## Conditions of Participation
-
-Each tournament participant is responsible...
-
-...that he/she attends the briefing on time.  
-...that he/she is ready for the tournament games.  
-...that he/she is registered for the tournament on the [SwitzerLAN website](https://switzerlan.ch/turnier/?id=287) as well as on Battlefy.  
-...that he/she joins the [SwitzerLAN Discord](https://discord.com/invite/AwJb9mF) server and responding to messages on there.
+Players may pick any civilization, but may not repeat any civilization in a match.
+This means that if, for example, a match lasts for three games, players will have played three different civilizations
+each (also known as "hidden pick, no repeat").
 
 ## Playing Situations
 
-### Pausing the Game
+### Disconnect or Game Crash
 
-When pausing the game, the reason and duration of the pause should always be briefly discussed among each other.
-
-### Restore the Game
-
-In case of a disconnect or game crash, the player remaining in the game should save the game. The game should then be
-restored to the last available point in time.
+The player remaining in the game should save the game.
+The game should then be restored to the last available point in time.
 
 ### End of Game
 
-The winner is the player who has the most points after 700 years (60 in-game minutes). Of course, a player also wins if
-the opponent surrenders prior to the time limit.
-
-### Winning the Game / Results
-
-To avoid discussions, the winner of the game is obliged to take a screenshot of the end-game screen.
+The winner is the player who has the most points after 700 years (60 in-game minutes).
+Of course, a player also wins if the opponent surrenders prior to the time limit.
