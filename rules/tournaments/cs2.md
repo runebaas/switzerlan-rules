@@ -89,7 +89,7 @@ SwitzerLAN, the IPs will be provided via the main communication channels.
 | Name                 | Value      | Server                         |
 |----------------------|------------|--------------------------------|
 | Rounds               | Best of 24 | `mp_maxrounds 24`              |
-| Round time           | 1m 55s     | `mp_roundtime 1.2`             |
+| Round time           | 1m 55s     | `mp_roundtime 1.92`            |
 | Start money          | $800       | `mp_startmoney 800`            |
 | Freeze Time          | 20s        | `mp_freezetime 20`             |
 | Buy time             | 20s        | `mp_buytime 20`                |
