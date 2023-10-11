@@ -17,12 +17,12 @@ $contentFolder = "$websiteFolder/content"
 
 $nl = [System.Environment]::NewLine
 
-$finalPages = ('Main Rulebook','osu!','Rocket League','Hearthstone','Overwatch 2','League of Legends','Apex Legends','Arcane Wilds','Valorant')
+$finalPages = ('Main Rulebook','osu!','Rocket League','Hearthstone','Overwatch 2','League of Legends','Apex Legends','Arcane Wilds','Valorant','Age of Empires 2')
 
 ####
 # Shared Functions
 ####
-function CreateContentSkelleton() {
+function CreateContentSkeleton() {
     if (Test-Path -Path $contentFolder -PathType Container) {
         Remove-Item -Recurse -Force "$contentFolder"
     }
@@ -109,7 +109,7 @@ $menuItems
 ####
 switch ($TaskName) {
     "sync-content" {
-        CreateContentSkelleton
+        CreateContentSkeleton
 
         GenerateMainRulebook > "$contentFolder/_index.md"
 
