@@ -15,27 +15,28 @@ The rules may be available in several languages. If the individual versions diff
 There are no rank restrictions for LAN tournaments unless specified. Map selectors and organizers are not allowed to participate in the tournament.
 
 ### Tournament format
-This years osu! Switzerlan tourney will be played in a 2v2 format. Players will sign up as teams through the Switzerlan website.
+This years osu! Switzerlan tourney will be played in a 2v2 format. Players will sign up as teams through the Switzerlan website. This tournament will be played on the new osu!lazer client using the default osu!lazer scoring.
 
 ### Qualifiers
 The tournament starts with a qualifier system. The teams will play in self reffed lobbies. Each team must play in their own lobby. Upon entering the lobby the players must immediately send their match link to a tournament administrator.
-SV2 is the effective scoring used. The advancing teams will be determined by adding the combined normalized team scores accross the whole qualifier pool and comparing it to the other teams. The top 16 teams will advance.
+In osu!lazer the match link can be found on your profile inside the "multiplayer" tab at the top.
+The advancing teams will be determined by adding the combined normalized team scores accross the whole qualifier pool and comparing it to the other teams. The top 16 teams will advance.
 Teams will be allowed 2 playthroughs of the mappool which must be done in the same lobby. The best combined team score per map will be used for the calculations. The qualifier lobbies must be finished by 21:45.
 
 #### Bracket
 
 The tournament continues in a double elimination format. Teams who lose a match continue playing in the losers bracket. Participants who lose a match in the losers bracket will be completely eliminated from the tournament.
 
-After both brackets have concluded, the winners of the two brackets compete in the grand finals at the Herofest osu! booth. The grand finals match will be played on the osu!lazer client. If the winner of the losers bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, he wins the tournament.
+After both brackets have concluded, the winners of the two brackets compete in the grand finals at the Herofest osu! booth. If the winner of the losers bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, he wins the tournament.
 
-Map pool size for each round are as follows:
+Map pool size and match length for each round are as follows:
 
-| Round        | Size    |
-|--------------|---------|
-| Qualifier    | 9 maps  |
-| Ro16/8, L1-2 | 12 maps |
-| Ro4/2, L3-6  | 16 maps |
-| Grand Finals | 18 maps |
+| Round        | Size    | Best of |
+|--------------|---------|---------|
+| Qualifier    | 9 maps  |         | 
+| Ro16/8, L1-2 | 12 maps | 7       |
+| Ro4/2, L3-6  | 16 maps | 9       |
+| Grand Finals | 18 maps | 11      |
 
 #### Mappool
 
@@ -60,7 +61,8 @@ The players open up their own lobbies. This tournament will be fully self reffed
 
 At the beginning of a match, the captain of each team executes a !roll command.
 
-The team with the highest roll points will have their warmup played first. Warmup maps may not be longer than four minutes and may not contain questionable or offensive material of any kind. Players are free to choose mods when playing a warmup map. Bans will be in succession meaning: !roll -> warm-up -> 1 Ban -> 1 Ban -> Pick
+The team with the highest roll points will have their warmup played first. Warmup maps may not be longer than four minutes and may not contain questionable or offensive material of any kind. Players are free to choose mods when playing a warmup map. Bans will be in succession meaning: !roll -> warm-up -> 1 Ban -> 1 Ban -> (2 Ban -> 2 Ban) -> Pick
+
 
 The roll winner may choose the ban order.
 
@@ -78,9 +80,9 @@ In this tournament iteration teams will have the option to force a mod onto the 
 
 There will be **no bans** available for the players during qualifiers.
 
-During Ro16/8, L1-2 and Ro4/2, L3-6, players will be granted 1 ban each.
+During Ro16/8, L1-2 teams will be granted 1 ban each.
 
-During grand finals, players will be granted 2 bans each.
+During grand finals and Ro4/2, L3-6, teams will be granted 2 bans each.
 
 #### Map Rules
 
@@ -107,7 +109,7 @@ the following conditions:
 | Name          | CHLAN: (Team 1) vs (Team 2) |
 | Game mode     | osu! std                        |
 | Team mode     | Head to Head                    |
-| Win condition | Score **V2**                    |
+| Win condition | default osu!lazer scoring       |
 
 The room should be locked
 
@@ -121,7 +123,7 @@ The room should be locked
 | Name          | CHLAN: (Team) vs (Qualifier X*) |
 | Game mode     | osu! std                            |
 | Team mode     | Head to Head                        |
-| Win condition | Score **V2**                        |
+| Win condition | default osu!lazer scoring           |
 
 The room should be locked
 
