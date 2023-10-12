@@ -26,13 +26,14 @@ The tournament is played in the following stages:
 | Qualifiers | 11 Swiss Rounds in the Best-of-1 format. The top 16 teams qualify for the second stage. The Swiss rounds will not be seeded.             |
 | Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example: 1st vs 16th) |
 
+
 #### Side Selection
 
 ##### Qualifiers - Swiss Rounds
 
 Side selection will be determined by the listing of the match, first named team will have side selection.
 
-##### Finals - Best of 3 Single Elimination
+##### Finals - Best of 3 Single Elminiation
 
 Side selection will be awarded to the higher seed for Game 1. For all games after the first, the losing Team of the previous game will have side selection.
 
