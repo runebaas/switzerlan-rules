@@ -78,7 +78,7 @@ A tournament admin is a tournament official in charge of running the tournament.
 
 ### Head of tournaments
 
-The head of tournaments is holds the final decision power over any and all matters in all tournaments.
+The head of tournaments holds the final decision power over any and all matters in all tournaments.
 
 ## During the tournament
 
@@ -86,13 +86,13 @@ The head of tournaments is holds the final decision power over any and all matte
 
 Participants must check the published schedule regularly in case of adjustments, to ensure that the tournament is not delayed.
 
-### Match check-in
+### Match check in
 
-The team captain must check-in to the match on the designated tournament platform no later than 15 minutes after the start of the round according to the schedule.
+The team captain must check in to the match on the designated tournament platform no later than 15 minutes after the start of the round according to the schedule.
 
-If your opponent misses the check-in time window, notify the tournament officials. They will make a last attempt to contact the them. If they cannot be contacted within a reasonable timeframe, the reporting team gets a defwin.
+If your opponent misses the check-in time window, notify the tournament officials. They will make a last attempt to contact them. If they cannot be contacted within a reasonable timeframe, the reporting team gets a defwin.
 
-If both parties don't check-in, or give any other indication that they are playing, the tournament official will give a defwin to a random team.
+If both parties don't check in, or give any other indication that they are playing, the tournament official will give a defwin to a random team.
 
 ### Delayed match start
 
@@ -109,7 +109,7 @@ If a break is longer than 5 minutes, the tournament official must be notified.
 
 In case of a disconnect, lag, or major bug, the match can be paused for a duration of up to 15 minutes.
 
-If the issue repeats, the tournament official must be notisfied.
+If the issue repeats, the tournament official must be notified.
 
 ### Medical Issues
 
@@ -129,7 +129,7 @@ Ideally the entire team should be present.
 
 If an issue arises during the tournament, you must contact tournament officials.
 
-Please provide any proof, such as screenshots, chats, etc, that are related to the issue.
+Please provide any proof, such as screenshots, chats, etc., that are related to the issue.
 
 ### Decision Issue
 
@@ -137,22 +137,22 @@ In case of disagreement with a decision, the team representative may appeal to t
 
 ### Penalties
 
-| Violation                                   | Sanction         |
-|---------------------------------------------|------------------|
-| Insults                                     | Warning          |
-| Deception                                   | Warning          |
-| Excessive protesting                        | Warning          |
-| Unnecessary pausing                         | Warning          |
-| Be late or unresponsive                     | Warning          |
-| Use of unregistered accounts                | Warning          |
-| Use of players not registered in the team   | Disqualification |
-| Discrimination                              | Disqualification |
-| Fake results                                | Disqualification |
-| Cheating                                    | Disqualification |
-| Doping / use of performance enhancing drugs | Disqualification |
-| Damage of property or theft                 | Ban + Police     |
-| Physical violence                           | Ban + Police     |
-| Other illegal activities (under swiss law)  | Ban + Police     |
+| Violation                                   | Sanction           |
+|---------------------------------------------|--------------------|
+| Insults                                     | Warning            |
+| Deception                                   | Warning            |
+| Excessive protesting                        | Warning            |
+| Unnecessary pausing                         | Warning            |
+| Be late or unresponsive                     | Warning            |
+| Use of unregistered accounts                | Warning            |
+| Use of players not registered in the team   | Disqualification   |
+| Discrimination                              | Disqualification   |
+| Fake results                                | Disqualification   |
+| Cheating                                    | Disqualification   |
+| Doping / use of performance enhancing drugs | Disqualification   |
+| Damage of property or theft                 | Ban + Legal Action |
+| Physical violence                           | Ban + Legal Action |
+| Other illegal activities (under swiss law)  | Ban + Legal Action |
 
 This table is not exhaustive.
 
@@ -191,15 +191,28 @@ All scripts or 3rd Party Software that may give a competitive advantage in any w
 All participants may stream, broadcast, or record their matches under the following conditions:
 
 * All involved participants are aware and agree to have the match streamed.
-* A stream has the an appropriate delay for the streamed game. If you are unsure about the amount, check with the tournament officials.
+* A stream has an appropriate delay for the streamed game. If you are unsure about the amount, check with the tournament officials.
 * The stream or recording must include "SwitzerLAN (year)".
 * A stream may not compete with official SwitzerLAN streams.
 
 ### Streams organized by SwitzerLAN
 
-Switzerland holds the right to stream, broadcast, or record any match played in any SwitzerLAN tournament.
+SwitzerLAN holds the right to stream, broadcast, or record any match played in any SwitzerLAN tournament.
 
 An appropriate delay for the streamed game will be used.
+
+## Username and Team names
+
+Any offensive, racist, discriminatory, indecent, or otherwise disturbing team- or usernames will not be tolerated.
+
+Participants will be asked once to change their names.
+Failure to comply will result in disqualification.
+
+## Cross Play
+
+Any tournament games with official PC versions will be played on PC.
+However, if a game offers cross-play between PC and other platforms, participants may choose their preferred platform.
+This is subject to the condition that their choice neither interrupts the tournament proceedings nor necessitates additional arrangements or setup.
 
 ## Glossary
 

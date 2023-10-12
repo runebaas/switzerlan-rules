@@ -12,7 +12,7 @@ The rules may be available in several languages. If the individual versions diff
 
 #### Tournament Platform
 
-The official tournament platform for this tournaments is battlefy.
+The official tournament platform for this tournament is Battlefy.
 Please make sure that each member of your team has an account.
 
 The official tournament page will be shared via the main communication channel established in the main rulebook.
@@ -21,10 +21,11 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| State      | Description                                                                                                                             |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Qualifiers | 4 groups with Swiss Rounds in the Best-of-1 format. The top 4 teams qualify for the second stage. The Swiss rounds will not be seeded.  |
-| Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example. 1st vs 4th) |
+| State      | Description                                                                                                                              |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Qualifiers | 11 Swiss Rounds in the Best-of-1 format. The top 16 teams qualify for the second stage. The Swiss rounds will not be seeded.             |
+| Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example: 1st vs 16th) |
+
 
 #### Side Selection
 
@@ -42,8 +43,11 @@ The Tiebreakers of the Swiss Rounds will be automatically calculated by Battlefy
 
 ## Schedule
 
-First appointment for the team representative will be the briefing on Friday at 19:00. The Tournament itself will start one hour later at 20:00.
+The first appointment for the team representative will be the briefing on Friday at 20:00.
+The Tournament itself will start at 21:00.
 All players must be at the location at the start of the tournament.
+
+No accommodations will be made for other tournaments that may happen during the time of this tournament.
 
 ## Game Settings
 
@@ -56,3 +60,7 @@ EUW
 Mode: 5v5
 
 Version: Latest patch
+
+### Skins
+
+Skins are allowed

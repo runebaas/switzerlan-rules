@@ -17,10 +17,12 @@ $contentFolder = "$websiteFolder/content"
 
 $nl = [System.Environment]::NewLine
 
+$finalPages = ('Main Rulebook','osu!','Rocket League','Hearthstone','Overwatch 2','League of Legends','Apex Legends','Arcane Wilds','Valorant','Age of Empires 2')
+
 ####
 # Shared Functions
 ####
-function CreateContentSkelleton() {
+function CreateContentSkeleton() {
     if (Test-Path -Path $contentFolder -PathType Container) {
         Remove-Item -Recurse -Force "$contentFolder"
     }
@@ -30,11 +32,27 @@ function CreateContentSkelleton() {
 }
 
 function GeneratePage([string]$pageTitle, [string]$pageContent) {
+    if ($finalPages -contains $pageTitle) {
+        return @"
++++
+title = "$pageTitle"
+type = "docs"
++++
+
+$pageContent
+"@
+    }
+
     return @"
 +++
 title = "$pageTitle"
 type = "docs"
 +++
+
+{{< hint warning >}}
+**Provisional Rules**
+The rules have not been updated for 2023. The rules are provisional and may be used as reference, but are subject to change at any time while this banner is shown.
+{{< /hint >}}
 
 $pageContent
 "@
@@ -91,7 +109,7 @@ $menuItems
 ####
 switch ($TaskName) {
     "sync-content" {
-        CreateContentSkelleton
+        CreateContentSkeleton
 
         GenerateMainRulebook > "$contentFolder/_index.md"
 
