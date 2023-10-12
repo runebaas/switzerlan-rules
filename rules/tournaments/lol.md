@@ -21,10 +21,10 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| State      | Description                                                                                                                             |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Qualifiers | 4 groups with Swiss Rounds in the Best-of-1 format. The top 4 teams qualify for the second stage. The Swiss rounds will not be seeded.  |
-| Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example. 1st vs 4th) |
+| State      | Description                                                                                                                              |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Qualifiers | 11 Swiss Rounds in the Best-of-1 format. The top 16 teams qualify for the second stage. The Swiss rounds will not be seeded.             |
+| Finals     | Single Elimination in the Best-of-3 format. The Elimination Bracket will be seeded according to the Swiss results (example: 1st vs 16th) |
 
 #### Side Selection
 
@@ -43,7 +43,7 @@ The Tiebreakers of the Swiss Rounds will be automatically calculated by Battlefy
 ## Schedule
 
 The first appointment for the team representative will be the briefing on Friday at 20:00.
-The Tournament itself will start at 21:30.
+The Tournament itself will start at 21:00.
 All players must be at the location at the start of the tournament.
 
 No accommodations will be made for other tournaments that may happen during the time of this tournament.
