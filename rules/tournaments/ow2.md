@@ -23,8 +23,8 @@ The tournament is played in the following stages:
 
 | Stage   | Type               | Format | Description                                                                            |
 |---------|--------------------|--------|----------------------------------------------------------------------------------------|
-| Stage 1 | Swiss Rounds       | Bo3    | 6 rounds. The top 4 teams qualify for the next stage. This stage will not be seeded    |
-| Stage 2 | Single Elimination | Bo5    | for all matches. The bracket will be seeded according to the result of the first stage |
+| Stage 1 | Swiss Rounds       | Bo3    | 6 rounds. The top 8 teams qualify for the next stage. This stage will not be seeded    |
+| Stage 2 | Double Elimination | Bo5    | for all matches. The bracket will be seeded according to the result of the first stage |
 
 ## Schedule
 
@@ -41,6 +41,7 @@ The 1. named team (upper one in the Bracket) is responsible for creating the mat
 * Server: Europe
 * Preset: Competitive
 * Kill Cam: off
+* Skins: on
 
 ### Map Pool
 
@@ -56,7 +57,7 @@ The maps will be played in the following order during the whole tournament.
 | 2     | Hybrid                                     |
 | 3     | Flashpoint                                 |
 | 4     | Escort                                     |
-| 5     | Push (excluding the map chosen as 1st map) |
+| 5     | Push                                       |
 
 ### Map Choice
 
@@ -71,11 +72,11 @@ In the bracket stage the higher seeded team from the swiss rounds can choose the
 
 Here are the starting maps for the different rounds:
 
-| Swiss Round | Starting map  |
-|-------------|---------------|
-| 1           | Nepal         |
-| 2           | Lijiang Tower |
-| 3           | New Junk City |
-| 4           | Oasis         |
-| 5           | Busan         |
-| 6           | Nepal         |
+| Swiss Round | Starting map        |
+|-------------|---------------------|
+| 1           | Nepal               |
+| 2           | Lijiang Tower       |
+| 3           | Ilios               |
+| 4           | Oasis               |
+| 5           | Busan               |
+| 6           | Antarctic Peninsula |
