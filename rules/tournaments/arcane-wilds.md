@@ -32,7 +32,24 @@ The first appointment will be the briefing on Friday at 13:00.
 The tournament itself will start half an hour later at 13:30.
 All players must be at the location at the start of the tournament.
 
+## Tournament Price
+
+The pool of 1000Fr will be split amongst the top 8 players.
+
+1. 300Fr
+2. 200Fr
+3. 150Fr
+4. 100Fr
+5. 75Fr
+6. 75Fr
+7. 50Fr
+8. 50Fr
+
 ## Settings
+
+{{< hint info >}}
+Arcane Wilds can be downloaded from Steam: https://store.steampowered.com/app/1492050/Arcane_Wilds/
+{{< /hint >}}
 
 ### Game Version
 
