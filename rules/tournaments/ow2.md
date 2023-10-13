@@ -41,7 +41,6 @@ The 1. named team (upper one in the Bracket) is responsible for creating the mat
 * Server: Europe
 * Preset: Competitive
 * Kill Cam: off
-* Skins disabled
 
 ### Map Pool
 
