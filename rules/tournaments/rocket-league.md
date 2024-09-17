@@ -15,11 +15,20 @@ The rules may be available in several languages. If the individual versions diff
 The official tournament platform for this tournament is Battlefy.
 Please make sure that each member of your team has an account.
 
-### Tournament Format
+### Tournament Format (TCS Play-Ins)
+
+The Play-Ins hold up to 32 teams and consist of two stages:
+
+| Stage      | Type               | Format | Description                                         |
+|------------|--------------------|--------|-----------------------------------------------------|
+| Qualifiers | Round Robin        | Bo5    | Top 2 teams of each group qualify for the playoffs. |
+| Playoffs   | Single Elimination | Bo5    |                                                     |
+
+### Tournament Format (SwitzerLAN)
 
 The tournament is played in the following stages:
 
-| State      | Type               | Format | Description                                                         |
+| Stage      | Type               | Format | Description                                                         |
 |------------|--------------------|--------|---------------------------------------------------------------------|
 | Qualifiers | Swiss Rounds       | Bo3    | Top 16 teams qualify for the playoffs.                              |
 | Playoffs   | Double Elimination | Bo5    | The bracket will be seeded according to the result of the qualifier |
