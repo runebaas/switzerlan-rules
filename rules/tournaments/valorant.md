@@ -46,8 +46,11 @@ All players must be at the location at the start of the tournament.
 * Ascent
 * Bind
 * Breeze
+* Fracture
 * Haven
+* Icebox
 * Lotus
+* Pearl
 * Split
 * Sunset
 
