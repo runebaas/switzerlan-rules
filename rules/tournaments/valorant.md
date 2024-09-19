@@ -43,16 +43,7 @@ All players must be at the location at the start of the tournament.
 
 ### Map pool
 
-* Ascent
-* Bind
-* Breeze
-* Fracture
-* Haven
-* Icebox
-* Lotus
-* Pearl
-* Split
-* Sunset
+The map pool will be the same as the ones available in competitive mode.
 
 ### Map Selection Process
 
