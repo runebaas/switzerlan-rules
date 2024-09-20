@@ -86,6 +86,12 @@ The head of tournaments holds the final decision power over any and all matters 
 
 Participants must check the published schedule regularly in case of adjustments, to ensure that the tournament is not delayed.
 
+### Tournament check in
+
+All team members must check in prior to the tournament on the designated tournament platform.
+
+Failure to do this up to 20 minutes prior to the start of a tournament results in a disqualification.
+
 ### Match check in
 
 The team captain must check in to the match on the designated tournament platform no later than 15 minutes after the start of the round according to the schedule.
