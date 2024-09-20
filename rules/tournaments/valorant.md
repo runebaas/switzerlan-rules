@@ -43,7 +43,17 @@ All players must be at the location at the start of the tournament.
 
 ### Map pool
 
-The map pool will be the same as the ones available in competitive mode.
+The map pool will be the same as the ones available in competitive mode 2 weeks prior to the LAN.
+
+These are:
+
+* Abyss
+* Ascent
+* Bind
+* Haven
+* Icebox
+* Lotus
+* Sunset
 
 ### Map Selection Process
 
