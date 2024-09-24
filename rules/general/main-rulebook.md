@@ -88,9 +88,9 @@ Participants must check the published schedule regularly in case of adjustments,
 
 ### Tournament check in
 
-All team members must check in prior to the tournament on the designated tournament platform.
+All team members must check in prior to the start of the tournament (as in start of the first round) on the designated tournament platform.
 
-Failure to do this up to 20 minutes prior to the start of a tournament results in a disqualification.
+Failure to do this up to latest 20 minutes prior to the start of a tournament results in a disqualification.
 
 ### Match check in
 
