@@ -17,7 +17,7 @@ $contentFolder = "$websiteFolder/content"
 
 $nl = [System.Environment]::NewLine
 
-$finalPages = @()
+$finalPages = ('Main Rulebook','osu!','Rocket League','Hearthstone','Overwatch 2','Apex Legends','Valorant','Apex Legends')
 
 ####
 # Shared Functions
