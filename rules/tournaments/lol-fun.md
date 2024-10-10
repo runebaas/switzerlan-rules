@@ -21,11 +21,14 @@ The official tournament page will be shared via the main communication channel e
 
 The tournament is played in the following stages:
 
-| State        | Description                                                                                                                              |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Swiss Rounds | Swiss Rounds in the Best-of-1 format. This will be done in 4 groups. The top 8 teams of each group continue to the second stage.         |
-| Playoffs     | Single Elimination Bracket in the Best-of-1 format. The Elimination Bracket will be seeded according to the results of the swiss format. |
+| Stage        | Description                                                                                                                      |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Swiss Rounds | Swiss Rounds in the Best-of-1 format. This will be done in 4 groups. The top 8 teams of each group continue to the second stage. |
+| Playoffs     | Single Elimination. The Elimination Bracket will be seeded according to the results of the swiss format.                         |
 
+Best of during the playoffs:
+* Top-32 and Top-16: Best-of-1
+* Quarter Finals onwards: Best-of-3
 
 #### Side Selection
 
