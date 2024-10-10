@@ -47,7 +47,6 @@ No accommodations will be made for other tournaments that may happen during the 
 * Dust 2
 * Vertigo
 * Ancient
-* Anubis
 
 ### Map Selection Process
 
