@@ -41,6 +41,10 @@ All players must be at the location at the start of the tournament.
 | Mode    | 5v5                |
 | Preset  | Competitive        |
 
+#### Skins
+
+Skins are allowed
+
 ### Map pool
 
 The map pool will be the same as the ones available in competitive mode 2 weeks prior to the LAN.
