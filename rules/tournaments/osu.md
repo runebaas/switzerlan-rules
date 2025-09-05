@@ -6,7 +6,7 @@ These rules inherit all rules from the main rulebook.
 
 These rules apply to all participants of the osu! tournament (hereinafter "osu" or "Game").
 
-The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
+The rules may be available in several languages. If the individual versions differ, the English version is considered the correct version.
 
 ## Tournament Information
 
@@ -15,60 +15,71 @@ The rules may be available in several languages. If the individual versions diff
 There are no rank restrictions for LAN tournaments unless specified. Map selectors and organizers are not allowed to participate in the tournament.
 
 ### Tournament format
-This years osu! Switzerlan tourney will be played in a 1v1 format. Players will sign up through the Switzerlan website. This tournament will be played on osu!stable client using score v2.
+This year's osu! Switzerlan tourney will be played in a 1v1 format. Players will sign up through the Switzerlan website. This tournament will be played on osu!stable client using score v2.
 
 ### Qualifiers
-The tournament starts with a qualifier system. The players will play in self reffed lobbies. Each player must play in their own lobby. Upon entering the lobby the player must immediately send their match link to a tournament administrator. The match link can be seen in the chat when you create the multiplayer lobby.
-The advancing players will be determined by adding the combined normalized team scores accross the whole qualifier pool and comparing it to the other players. The top 16 players will advance.
-Players will be allowed 2 playthroughs of the mappool which must be done in the same lobby. The best score per map will be used for the calculations. The qualifier lobbies must be finished by 21:45.
+The tournament starts with a qualifier system. The players will play in self-reffed lobbies. Each player must create their own lobby according to the "Lobby Settings" section. Upon entering the lobby, the player must immediately send their match link to a tournament administrator. The match link can be seen in the chat when you create the multiplayer lobby.
 
-#### Bracket
+The advancing players will be determined by adding the combined normalized scores across the qualifier pool and comparing them to the other players'. The top 16 players will advance.
+Players will be only be allowed a single playthrough of the mappool. The qualifier lobbies must be finished by 21:30.
 
-The tournament continues in a double elimination format. Players who lose a match continue playing in the losers bracket. Participants who lose a match in the losers bracket will be completely eliminated from the tournament.
+#### Map Rules
 
-After both brackets have concluded, the winners of the two brackets compete in the grand finals at the Herofest osu! booth. If the winner of the losers bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, he wins the tournament.
+Once started, the map must be played until the end. The qualifier score of a map is determined by the scores submitted to the /mp/ link. A player’s score is counted as long as they do not quit during the map. If a map is played on the wrong settings e.g. wrong mod or score system, it will be replayed.
 
-Map pool size and match length for each round are as follows:
+### Bracket
 
-| Round        | Size    | Best of |
-|--------------|---------|---------|
-| Qualifier    | 9 maps  |         | 
-| Ro16/8, L1-2 | 12 maps | 7       |
-| Ro4/2, L3-6  | 14 maps | 9       |
-| Grand Finals | 18 maps | 11      |
+The tournament continues in a double-elimination format. Players who lose a match continue playing in the loser's bracket. Participants who lose a match in the loser's bracket will be eliminated from the tournament.
+
+After both brackets have concluded, the winners of the two brackets compete in the grand finals at the Herofest osu! booth. If the player coming from the losers' bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, they win the tournament.
+
+Map pool size, match length, and the number of bans for each round are as follows:
+
+| Round        | Size    | Best of | Ban #   |
+|--------------|---------|---------|---------|
+| Qualifier    | 12 maps | /       | /       | 
+| Ro16/8, L1-2 | 14 maps | 9       | 1       |
+| Ro4/2, L3-6  | 15 maps | 11      | 1       |
+| Grand Finals | 19 maps | 13      | 2       |
 
 #### Mappool
 
-This tournament iteration will have a different mappool format than usual. Instead of having a strict amount of maps per mod and per stage we opted to focus on skillsets first and on forced mods secondary. This means that a map such as nomod 5, which historically has been associated with nomod speed, may also be a doubletime map.
+The mappool will be available on Tuesday the 22nd of September. The tournament sheet will be posted in the official discord channels.
 
-We have also opted to replace all the nomod maps by freemod maps. Players may choose any or multiple of the following mods: nomod, hidden, hardrock unless otherwise specified. HR is generally disallowed in reading picks, which will be noted on the mappool sheet. 
+The freemod pool allows the player to pick hidden, hardrock, or both mods unless specified otherwise. Additional score granted by the mod multipliers will count. 
 
-Players are **not** forced to pick a mod in the FM mappool. The bonus scores provided by the mods in the FM category will be awarded.
+In the forcedmod pools such as EZ, HD, HR, and DT, players are **not** allowed to pick additional mods.
 
-In the forced mod pools such as EZ, HD, HR, DT, DTHR players are **not** allowed to pick additional mods.
+#### Tiebreaker
 
-### Tiebreaker
-In the event of a Tiebreaker players will have to play the tiebreaker map. The winner of which goes on to win the match.
+In the event of a tiebreaker, players will have to play the tiebreaker map. The winner of which goes on to win the match. The rules of the freemod pool also apply to the tiebreaker.
 
 ### Match procedures
 
 #### Lobby Creation
 
-The players open up their own lobbies. This tournament will be fully self reffed until the Grand Finals.
+Players create their own lobbies according to the "Lobby Settings" section. This tournament will be fully self-reffed until the Grand Finals.
 
 #### Roll and warmups (Brackets only)
 
-At the beginning of a match, each player executes a !roll command.
+At the beginning of the match, each player executes a !roll command.
 
-The player with the highest roll points will have their warmup played first. Warmup maps may not be longer than four minutes and may not contain questionable or offensive material of any kind. Players are free to choose mods when playing a warmup map. Bans will be in succession meaning: !roll -> warm-up -> 1 Ban -> 1 Ban -> (2 Ban -> 2 Ban) -> Pick
+The player with the highest roll points will have their warmup played first. Warmups may not be longer than four minutes and may not contain questionable or offensive material of any kind. Players are free to choose mods when playing a warmup map. 
 
+Bans will follow an ABBA order when applicable.
 
-The roll winner may choose the ban order.
-
-First ban will be the first pick.
+The roll winner chooses the pick order, and the roll loser the ban order.
 
 #### Picks
-In this tournament iteration players will have the option to force a mod onto the FM mappool for the whole lobby. This may be any of the following mods: nomod, hidden, hardrock, provided that they are not disallowed according to the mappool sheet. The amount of forced mod picks per team is as follows:
+
+Double picks are **NOT** allowed, meaning you cannot pick 2 maps from the same modpool in a row. For example, this is not allowed:
+
+HD1 -> Opponent's pick -> HD3
+
+The freemod pool is exempt from this rule.
+
+Players will also have the option to force a mod onto the freemod pool for the whole lobby. This may be any of the following mods: nomod, hidden, hardrock, provided that they are not disallowed according to the mappool sheet. The amount of forced mod picks per player is as follows:
+
 | Round        | Forcemod Picks|
 |--------------|---------------|
 | Ro16/8, L1-2 | 1             |
@@ -77,53 +88,48 @@ In this tournament iteration players will have the option to force a mod onto th
 
 #### Bans
 
-There will be **no bans** available for the players during qualifiers.
+You are not allowed to ban two maps from the same modpool, e.g. HD1 and HD2. 
 
-During Ro16/8, L1-2 players will be granted 1 ban each.
+However, both players can choose to ban maps from the same modpool, e.g. Player 1 bans HR1 and Player 2 HR2.
 
-During grand finals, players will be granted 2 bans each.
+#### Replays
 
-#### Map Rules
+In case a player disconnects during a map, the admins may allow a replay of the map.
 
-Once started, the map must be played until the end. The qualifier score of a map is determined by the scores submitted to the /mp/ link. A player’s score is counted as long as he does not quit during the map. If a map is played on the wrong settings e.g. wrong mod or score system, it will be replayed.
+#### Lobby behavior
 
-#### Lobby behaviour
+Behavior during and between matches underlies the global osu! and [switzerLAN rules](https://rules.switzerlan.ch/). Players are expected to be respectful to staff and to each other during matches. In extreme cases, the tournament management may disqualify a player for excessive disruptions and rule violations.
 
-Behaviour during and between matches underlies the global osu! and [switzerLAN rules](https://rules.switzerlan.ch/). Players are expected to be respectful to staff and to each other during matches. In extreme cases, the tournament management may disqualify a player for excessive disruptions and rule violations.
-
-#### Rematches
-
-In case a player disconnects during a map, the admins may allow a replay subject to
-
-the following conditions:
-
-* Bancho messed up
 
 ### Lobby Settings
 
-#### Team vs. Team
+#### Player vs. Player
 
-| Setting       | Value                           |
-|---------------|---------------------------------|
-| Name          | CHLAN: (Player 1) vs (Player 2) |
-| Game mode     | osu! std                        |
-| Team mode     | Head to Head                    |
-| Win condition | score v2                        |
+| Setting       | Value                             |
+|---------------|-----------------------------------|
+| Name          | CHLAN25: (Player 1) vs (Player 2) |
+| Game mode     | osu! std                          |
+| Team mode     | Head to Head                      |
+| Win condition | score v2                          |
 
-The room should be locked
+To create your lobby, proceed in this manner:
 
-**!addref Command**
+Dm the user **BanchoBot** on osu the following message: !mp make CHLAN25: (Player 1) vs (Player 2) 
 
 #### Qualifier
 
 
 | Setting       | Value                               |
 |---------------|-------------------------------------|
-| Name          | CHLAN: (Player) vs (Qualifier X*) |
+| Name          | CHLAN25: (Player) vs (Qualifiers)   |
 | Game mode     | osu! std                            |
 | Team mode     | Head to Head                        |
 | Win condition | score v2                            |
 
-The room should be locked
+To create your lobby, proceed in this manner:
 
-(*corresponding Stage 1-3)
+Dm the user **BanchoBot** on osu the following message: !mp make CHLAN25: (Player 1) vs (Qualifiers) 
+
+## Questions
+
+For any questions or inquiries, contact xeladir or Zacatel on discord.
