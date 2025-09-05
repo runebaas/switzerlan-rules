@@ -38,7 +38,7 @@ Map pool size, match length, and the number of bans for each round are as follow
 | Round        | Size    | Best of | Ban #   |
 |--------------|---------|---------|---------|
 | Qualifier    | 12 maps | /       | /       | 
-| Ro16/8, L1-2 | 13 maps | 9       | 1       |
+| Ro16/8, L1-2 | 14 maps | 9       | 1       |
 | Ro4/2, L3-6  | 15 maps | 11      | 1       |
 | Grand Finals | 19 maps | 13      | 2       |
 
@@ -71,7 +71,14 @@ Bans will follow an ABBA order when applicable.
 The roll winner chooses the pick order, and the roll loser the ban order.
 
 #### Picks
-In this tournament iteration, players will have the option to force a mod onto the freemod mappool for the whole lobby. This may be any of the following mods: nomod, hidden, hardrock, provided that they are not disallowed according to the mappool sheet. The amount of forced mod picks per player is as follows:
+
+Double picks are **NOT** allowed, meaning you cannot pick 2 maps from the same modpool in a row. For example, this is not allowed:
+
+HD1 -> Opponent's pick -> HD3
+
+The freemod pool is exempt from this rule.
+
+Players will also have the option to force a mod onto the freemod pool for the whole lobby. This may be any of the following mods: nomod, hidden, hardrock, provided that they are not disallowed according to the mappool sheet. The amount of forced mod picks per player is as follows:
 
 | Round        | Forcemod Picks|
 |--------------|---------------|
@@ -81,7 +88,7 @@ In this tournament iteration, players will have the option to force a mod onto t
 
 #### Bans
 
-You are not allowed to ban 2 maps from the same modpool, e.g. HD1 and HD2. 
+You are not allowed to ban two maps from the same modpool, e.g. HD1 and HD2. 
 
 However, both players can choose to ban maps from the same modpool, e.g. Player 1 bans HR1 and Player 2 HR2.
 
