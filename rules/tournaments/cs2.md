@@ -94,7 +94,7 @@ In case of a draw after all 24 regulation rounds have been played, overtime will
 
 ### Match Server
 
-Matches are played on servers provided by Admins and will be Online Server Hosted in Bern Playoffs might have Local Servers depending on the Setup. Teams are required to check all necessary game aspects (including skins, bugs on load etc.) and network components (latency and server variance) no later than 5 minutes before the scheduled match start. Failure to do so, and to let the match start, will mean that both teams have accepted the state the map and server is in, and the match might be continued under these conditions.
+Matches are played on servers provided by Admins and will be Local Hosted Game Servers. Teams are required to check all necessary game aspects (including skins, bugs on load etc.) and network components (latency and server variance) no later than 5 minutes before the scheduled match start. Failure to do so, and to let the match start, will mean that both teams have accepted the state the map and server is in, and the match might be continued under these conditions.
 
 ### In-game Chat
 
