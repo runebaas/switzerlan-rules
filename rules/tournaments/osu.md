@@ -38,9 +38,9 @@ Map pool size, match length, and the number of bans for each round are as follow
 | Round        | Size    | Best of | Ban #   |
 |--------------|---------|---------|---------|
 | Qualifier    | 12 maps | /       | /       | 
-| Ro16/8, L1-2 | 14 maps | 9       | 1       |
-| Ro4/2, L3-6  | 15 maps | 11      | 1       |
-| Grand Finals | 19 maps | 13      | 2       |
+| Ro16/8, L1-2 | 15 maps | 9       | 1       |
+| Ro4/2, L3-6  | 19 maps | 11      | 2       |
+| Grand Finals | 22 maps | 13      | 2       |
 
 #### Mappool
 
