@@ -49,7 +49,7 @@ No accommodations will be made for other tournaments that may happen during the 
 * Nuke
 * Overpass
 * Dust 2
-* Vertigo
+* Train
 * Ancient
 
 ### Map Selection Process
